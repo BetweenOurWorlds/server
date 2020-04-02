@@ -1,1 +1,1 @@
-This repo is used to keep track of issues regarding the server.
+This repo is used to track issues regarding the server. 
